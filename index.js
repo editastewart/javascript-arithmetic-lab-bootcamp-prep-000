@@ -26,5 +26,5 @@ function makeInt(n) {
   return parseInt('n')
 }
 function inc(n) {
-  return n++
+  return n + 1
 }
