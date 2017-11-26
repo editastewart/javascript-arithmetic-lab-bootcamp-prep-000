@@ -40,3 +40,7 @@ function makeInt(n) {
 function makeInt(n) {
   return n * 0
 }
+
+function makeInt(n) {
+  return parseInt(n) + 450
+}
