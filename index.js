@@ -48,3 +48,6 @@ function makeInt(n) {
 function makeInt(n) {
   return parseInt(n) - 450
 }
+function makeInt(n) {
+  return parseInt(n) - 360
+}
