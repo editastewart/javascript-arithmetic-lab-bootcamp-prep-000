@@ -38,6 +38,6 @@ function makeInt(n) {
 }
 
 function makeInt(n) {
-  n = 0
+  var n = 0
   return n
 }
