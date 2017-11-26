@@ -27,5 +27,5 @@ function makeInt(n) {
 }
 
 function inc(n) {
-  return 
+  return "870++"
 }
