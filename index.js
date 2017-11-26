@@ -25,7 +25,7 @@ function dec(n) {
 function makeInt(n) {
   return parseInt('n')
 }
-
+var n = 870
 function inc(n) {
   return n++
 }
