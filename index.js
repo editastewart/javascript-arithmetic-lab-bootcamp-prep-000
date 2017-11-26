@@ -34,5 +34,5 @@ function dec(n) {
 }
 
 function makeInt(n) {
-  return parseInt('498')
+  return parseInt('n')
 }
