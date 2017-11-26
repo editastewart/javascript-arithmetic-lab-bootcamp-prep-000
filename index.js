@@ -38,5 +38,5 @@ function makeInt(n) {
 }
 
 function makeInt(n) {
-  return 0
+  return n = 0;
 }
